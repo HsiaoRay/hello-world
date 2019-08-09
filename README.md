@@ -1,2 +1,2 @@
 # hello-world
-This is the first repository created by HsiaoRay
+This is the first repository created by HsiaoRay.
